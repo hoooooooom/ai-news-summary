@@ -10,3 +10,4 @@ langchain-groq
 google-api-python-client
 langchain
 lxml 
+flask
